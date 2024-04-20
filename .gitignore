@@ -25,3 +25,4 @@ __pycache__/
 
 # Ignore local configuration files
 config.py
+.vercel
